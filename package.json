@@ -1,0 +1,27 @@
+{
+  "name": "merntutorialone",
+  "version": "1.0.0",
+  "description": "My First MERN Tutorial App",
+  "main": "index.js",
+  "scripts": {
+    "test": "Testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sinhaDroid/MernTutorialOne.git"
+  },
+  "keywords": [
+    "mern"
+  ],
+  "author": "Deepanshu Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinhaDroid/MernTutorialOne/issues"
+  },
+  "homepage": "https://github.com/sinhaDroid/MernTutorialOne#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7"
+  }
+}
